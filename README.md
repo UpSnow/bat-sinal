@@ -39,5 +39,4 @@ Este é um pequeno sistema de envio de "Bat Sinais", feito com **React Native + 
 - [React Navigation (Stack)](https://reactnavigation.org/)
 - Hooks do React (`useState`)
 - Componentes modernos:
-  - `Pressable` 
-  - `TextInput`, `Alert`, `ScrollView`, `Image`
+  - `Pressable`, `TextInput`, `Alert`, `ScrollView`, `Image`
