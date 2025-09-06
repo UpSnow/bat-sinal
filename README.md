@@ -15,7 +15,6 @@ Este é um pequeno sistema de envio de "Bat Sinais", feito com **React Native + 
   - Observações
 - ✅ Botão "Enviar" com alerta de confirmação
 - ✅ Uso de `useState` para gerenciamento de estado
-- ✅ Botões implementados com `Pressable` (substituindo `TouchableOpacity`)
 
 ---
 
