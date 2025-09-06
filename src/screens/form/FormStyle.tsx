@@ -13,7 +13,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
  
   },
-
+ 
   
   label: {
     marginTop: 15,

@@ -15,7 +15,7 @@ export function Form() {
       Alert.alert('Erro', 'Por favor, preencha todos os campos obrigatórios.');
       return;
     }
-
+ 
     Alert.alert(
       'Dados enviados com sucesso!',
       `Nome: ${nome}\nTelefone: ${telefone}\nLocalização: ${localizacao}\nObservação: ${observacao || 'Nenhuma'}`

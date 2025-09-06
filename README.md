@@ -17,7 +17,7 @@ Este é um pequeno sistema de envio de "Bat Sinais", feito com **React Native + 
 - ✅ Uso de `useState` para gerenciamento de estado
 
 ---
-
+ 
 ## 🖼️ Telas
 
 ### 1. Tela Inicial (Tela do Homem)

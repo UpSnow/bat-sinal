@@ -13,7 +13,7 @@ export function Home({ navigation }: Props) {
     <View style={styles.container}>
 
       <BatLogo/>
-
+ 
       <>
 
         <Pressable 

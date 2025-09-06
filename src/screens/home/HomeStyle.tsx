@@ -15,7 +15,7 @@ export const styles = StyleSheet.create({
     borderRadius:4,
     elevation:3,
     backgroundColor: '#0a0606ff',
-  },
+  }, 
   text:{
     fontSize: 16,
     lineHeight:21,
